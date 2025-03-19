@@ -13,3 +13,4 @@ Prezentacja przedstawia praktyczne zastosowanie Excela w analizie danych bizneso
 
 ![image](https://github.com/user-attachments/assets/0152e271-e584-401f-b688-ac43257a7084)
 
+x
